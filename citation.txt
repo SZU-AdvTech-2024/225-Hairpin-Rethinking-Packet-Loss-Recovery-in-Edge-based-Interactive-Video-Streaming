@@ -1,0 +1,7 @@
+@inproceedings{REPO225,
+    author = "Meng, Zili and Kong, Xiao and Chen, Jing and Wang, Bo and Xu, Mingwei and Han, Rui and Liu, Honghao and Arun, Venkat and Hu, Hongxin and Wei, Xue",
+    booktitle = "21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24)",
+    pages = "907--926",
+    title = "{Hairpin: Rethinking packet loss recovery in edge-based interactive video streaming}",
+    year = "2024"
+}
